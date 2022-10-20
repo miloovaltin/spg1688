@@ -1,16 +1,16 @@
 {
-"name": "spg1688",
-"theme": "spg1688",
-"version": "4.10.1",
-"description": "spg1688 ทางเข้าหลักเว็บบาคาร่าเว็บตรง อันดับ 1 แจกเงินเครดิตฟรี",
-"keywords": [
-"spg1688",
-"spg1688 เครดิตฟรี",
-"spg1688 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/spg1688",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "spg1688",
+  "theme": "spg1688",
+  "version": "4.11.0",
+  "description": "spg1688 ทางเข้าหลักเว็บบาคาร่าเว็บตรง อันดับ 1 แจกเงินเครดิตฟรี",
+  "keywords": [
+    "spg1688",
+    "spg1688 เครดิตฟรี",
+    "spg1688 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/spg1688",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
